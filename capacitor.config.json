@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "Free Vet",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
